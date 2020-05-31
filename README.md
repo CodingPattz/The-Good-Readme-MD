@@ -1,36 +1,36 @@
 
 <a href="https://github.com/CodingPattz" style="float:right"><img src="https://avatars0.githubusercontent.com/u/58642717?v=4" alt="CodingPattz" title="CodingPattz" width="120" height="120"></a>
 
-# TEST
+# THE GOOD README MD
 
-![License: Yes](https://img.shields.io/badge/License-Yes-orange)
+![License: No](https://img.shields.io/badge/License-No-orange)
 
 _Repo by CodingPattz_
 
-__https://codingpattz.github.io/homework6/__
+__null__
 
 ---
 
-#Project
-test
+__Project:__
+The Good Readme MD
 
-#Description
-blah
+__Description:__
+Create a command-line application that dynamically generates a README.md from a user's input.
 
 #Installation
-no
+run node index.js
 
 __Usage:__
-nope
+Install npm's after running node
 
 __License:__
-Yes
+No
 
 __Contributors:__
-no
+No
 
 __Tests:__
-no
+No
 
 __Questions:__
-ho
+N/A
