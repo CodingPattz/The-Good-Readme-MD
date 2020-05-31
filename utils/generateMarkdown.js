@@ -19,7 +19,7 @@ ${data.title}
 __Description:__
 ${data.rmDesc}
 
-#Installation
+__Installation:__
 ${data.inst}
 
 __Usage:__

@@ -7,7 +7,7 @@
 
 _Repo by CodingPattz_
 
-__null__
+__https://codingpattz.github.io/TheGoodReadmeMD/__
 
 ---
 
@@ -17,20 +17,20 @@ The Good Readme MD
 __Description:__
 Create a command-line application that dynamically generates a README.md from a user's input.
 
-#Installation
+__Installation:__
 run node index.js
 
 __Usage:__
-Install npm's after running node
+Install nmp after running node
 
 __License:__
 No
 
 __Contributors:__
-No
+N/A
 
 __Tests:__
-No
+N/A
 
 __Questions:__
 N/A
