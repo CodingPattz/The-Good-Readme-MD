@@ -18,10 +18,10 @@ __Description:__
 Create a command-line application that dynamically generates a README.md from a user's input.
 
 __Installation:__
-run node index.js
+Run node index.js
 
 __Usage:__
-Install nmp after running node
+Install npm before running node
 
 __License:__
 No
@@ -34,3 +34,9 @@ N/A
 
 __Questions:__
 N/A
+
+[The Good Readme MD Demo](https://youtu.be/KX0i4IV-zHU)
+
+<p align="center">
+  <img alt="VS Code in action" src="TheGoodReadme.png">
+</p>
